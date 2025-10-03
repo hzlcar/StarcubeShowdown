@@ -1,5 +1,5 @@
 /* 
- * Connor Caruthers
+ * Hazel Caruthers
  * 2365827
  * ccaruthers@chapman.edu
  * CPSC-340-01
@@ -7,6 +7,8 @@
  * 
  * Main class for the Sword. Contains a state machine to switch between neutral/attack/block. Contains functionality for hitting enemies and
  * dealing damage. Also handles playing animations and switching animations whenever state switches.
+ *
+ * (this is the main script for the sword weapon in my Unity game project Starcube Showdown)
 */
 
 using System.Collections;
